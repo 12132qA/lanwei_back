@@ -1,0 +1,57 @@
+server:
+  port: 7070
+  servlet:
+    context-path: /api
+
+spring:
+  datasource:
+    username: root
+    password: 600600
+    url: jdbc:mysql://127.0.0.1:3306/lanwei?serverTimezone=GMT%2B8&useSSL=false # &characterEncoding=utf-8 #&useOldAliasMetadataBehavior=true
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      pool-name: HikariCPDatasource
+      minimum-idle: 5
+      idle-timeout: 180000
+      max-lifetime: 180000
+      connection-timeout: 30000
+      connection-test-query: SELECT 1
+      auto-commit: true
+      #发送邮件配置相关
+      # 配置邮件服务器的地址
+  mail: # 用户
+    host: smtp.qq.com  # 邮件供应商
+    username: 1690564958@qq.com # 邮箱发送地址
+    password: zldcpkegocipchjg
+    properties:
+      mail:
+        debug: true  # 开启 debug，这样方便开发者查看邮件发送日志
+        stmp:  # SSL 连接配置
+          socketFactory:
+            class: javax.net.ssl.SSLSocketFactory
+    default-encoding: UTF-8
+
+   #项目目录 注意啊，不要用中文，是反斜杠，最后要带上反斜杠，最好是放到d:/easybbs/ 这样的一个跟盘符下
+  project:
+    folder: D:/spring-0001/LanWei-java/LanWei-web/ # C:/Users/Administrator/Desktop/easybbs/
+  #日志级别配置
+  log:
+   root:
+    level: debug
+  #内部接口相关
+  inner:
+    api:
+     appKey: easybbs
+     appSecret: easybbs_key
+  #web端接口地址
+  web:
+    api:
+      url: http://localhost:7070/api/innerApi/refresSysSetting
+  admin:
+    account: admin
+    password: admin123
+  #超级管理员id
+  isDev: false
+
+
+

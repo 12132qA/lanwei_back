@@ -1,0 +1,49 @@
+2024-03-22 21:00:21 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Pool stats (total=5, active=0, idle=5, waiting=0)
+2024-03-22 21:00:21 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-03-22 21:00:51 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Pool stats (total=5, active=0, idle=5, waiting=0)
+2024-03-22 21:00:51 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-03-22 21:01:21 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Pool stats (total=5, active=0, idle=5, waiting=0)
+2024-03-22 21:01:21 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-03-22 21:01:51 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Pool stats (total=5, active=0, idle=5, waiting=0)
+2024-03-22 21:01:51 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-03-22 21:02:21 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Pool stats (total=5, active=0, idle=5, waiting=0)
+2024-03-22 21:02:21 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-03-22 21:02:51 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Pool stats (total=5, active=0, idle=5, waiting=0)
+2024-03-22 21:02:51 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-03-22 21:02:52 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@676f67e3: (connection has passed maxLifetime)
+2024-03-22 21:02:52 [DEBUG][com.zaxxer.hikari.pool.HikariPool][call][729]-> HikariCPDatasource - Added connection com.mysql.cj.jdbc.ConnectionImpl@47fbeb89
+2024-03-22 21:03:01 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@75f32340: (connection has passed maxLifetime)
+2024-03-22 21:03:01 [DEBUG][com.zaxxer.hikari.pool.HikariPool][call][729]-> HikariCPDatasource - Added connection com.mysql.cj.jdbc.ConnectionImpl@1c6cfbec
+2024-03-22 21:03:02 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@34ce297b: (connection has passed maxLifetime)
+2024-03-22 21:03:02 [DEBUG][com.zaxxer.hikari.pool.HikariPool][call][729]-> HikariCPDatasource - Added connection com.mysql.cj.jdbc.ConnectionImpl@5d51f1d7
+2024-03-22 21:03:06 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5b0bc93: (connection has passed maxLifetime)
+2024-03-22 21:03:06 [DEBUG][com.zaxxer.hikari.pool.HikariPool][call][729]-> HikariCPDatasource - Added connection com.mysql.cj.jdbc.ConnectionImpl@6c468a6d
+2024-03-22 21:03:12 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@54e1d634: (connection has passed maxLifetime)
+2024-03-22 21:03:12 [DEBUG][com.zaxxer.hikari.pool.HikariPool][call][729]-> HikariCPDatasource - Added connection com.mysql.cj.jdbc.ConnectionImpl@14fbad49
+2024-03-22 21:03:21 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Pool stats (total=5, active=0, idle=5, waiting=0)
+2024-03-22 21:03:21 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-03-22 21:03:51 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Pool stats (total=5, active=0, idle=5, waiting=0)
+2024-03-22 21:03:51 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-03-22 21:04:21 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Pool stats (total=5, active=0, idle=5, waiting=0)
+2024-03-22 21:04:21 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-03-22 21:04:51 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Pool stats (total=5, active=0, idle=5, waiting=0)
+2024-03-22 21:04:51 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2024-03-22 21:05:18 [DEBUG][org.springframework.boot.availability.ApplicationAvailabilityBean][onApplicationEvent][77]-> Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2024-03-22 21:05:18 [DEBUG][org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext][doClose][1049]-> Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2eae8e6e, started on Fri Mar 22 08:30:09 CST 2024
+2024-03-22 21:05:18 [DEBUG][org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver][logKeyFound][115]-> Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+2024-03-22 21:05:18 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][stop][365]-> Stopping beans in phase 2147483647
+2024-03-22 21:05:18 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][lambda$doStop$3][238]-> Bean 'webServerGracefulShutdown' completed its stop procedure
+2024-03-22 21:05:18 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][stop][365]-> Stopping beans in phase 2147483646
+2024-03-22 21:05:19 [DEBUG][org.springframework.context.support.DefaultLifecycleProcessor][lambda$doStop$3][238]-> Bean 'webServerStartStop' completed its stop procedure
+2024-03-22 21:05:19 [DEBUG][org.springframework.jmx.export.annotation.AnnotationMBeanExporter][destroy][452]-> Unregistering JMX-exposed beans on shutdown
+2024-03-22 21:05:19 [DEBUG][org.springframework.jmx.export.annotation.AnnotationMBeanExporter][unregisterBeans][186]-> Unregistering JMX-exposed beans
+2024-03-22 21:05:19 [DEBUG][org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor][shutdown][218]-> Shutting down ExecutorService 'applicationTaskExecutor'
+2024-03-22 21:05:19 [INFO][com.zaxxer.hikari.HikariDataSource][close][350]-> HikariCPDatasource - Shutdown initiated...
+2024-03-22 21:05:19 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before shutdown stats (total=5, active=0, idle=5, waiting=0)
+2024-03-22 21:05:19 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@47fbeb89: (connection evicted)
+2024-03-22 21:05:19 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1c6cfbec: (connection evicted)
+2024-03-22 21:05:19 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5d51f1d7: (connection evicted)
+2024-03-22 21:05:19 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6c468a6d: (connection evicted)
+2024-03-22 21:05:19 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@14fbad49: (connection evicted)
+2024-03-22 21:05:19 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2024-03-22 21:05:19 [INFO][com.zaxxer.hikari.HikariDataSource][close][352]-> HikariCPDatasource - Shutdown completed.
