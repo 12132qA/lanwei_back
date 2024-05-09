@@ -12,7 +12,7 @@ public enum ArticleAttachmentTypeEnum {
 
         this.desc = desc;
     }
-
+   // 获取 文件 附件 类型
     public static ArticleAttachmentTypeEnum getByType(Integer type){
         for(ArticleAttachmentTypeEnum item:
                 ArticleAttachmentTypeEnum.values()){

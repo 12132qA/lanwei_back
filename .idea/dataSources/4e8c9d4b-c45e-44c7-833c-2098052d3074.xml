@@ -1069,8 +1069,8 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="323" parent="1" name="lanwei">
-      <IntrospectionTimestamp>2024-04-18.04:38:13</IntrospectionTimestamp>
-      <LocalIntrospectionTimestamp>2024-04-17.12:38:13</LocalIntrospectionTimestamp>
+      <IntrospectionTimestamp>2024-05-08.19:19:48</IntrospectionTimestamp>
+      <LocalIntrospectionTimestamp>2024-05-08.03:19:48</LocalIntrospectionTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="324" parent="1" name="treefutrue_back">
@@ -8981,7 +8981,7 @@ user_id</ColNames>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="2101" parent="471" name="board_id">
-      <AutoIncrement>10008</AutoIncrement>
+      <AutoIncrement>10007</AutoIncrement>
       <Comment>板块ID</Comment>
       <DasType>int|0s</DasType>
       <NotNull>1</NotNull>

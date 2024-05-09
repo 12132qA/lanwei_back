@@ -1,6 +1,7 @@
 package org.example.contorller;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
+import com.baomidou.mybatisplus.core.metadata.OrderItem;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import org.example.Mappers.*;
 import org.example.Utils.CopyTools;
@@ -58,7 +59,7 @@ public class UserCenterController {
     @GlobalInterceptor(checkParam = true)
     public ResponseVO getUserInfo(@VerifyParam(required = true) String userId){
          // 获取 用户信息
-        UserInfo userInfo = userInfoService.getById(userId);
+            UserInfo userInfo = userInfoService.getById(userId);
         if(null == userInfo|| UserStatusEnum.DISABLE.getStaus().equals(userInfo.getStatus())){
             throw new BusinessException(ResponseCodeEnum.CODE_404);
         }
@@ -99,7 +100,14 @@ public class UserCenterController {
         /**
          * 多表联合查询
          * */
-
+       if(type == null){
+           type = 0;
+       }
+       if(pageNo==null){
+           pageNo = 1;
+       }
+        // 创建存储 的 列表
+        List<String> ids = new ArrayList<>();
         if(type == 0 ){
             eq= eq.eq("status", 1);
             eq = eq.or();
@@ -108,17 +116,17 @@ public class UserCenterController {
             eq= eq.eq("status", 1);
             is1 =is1.eq("user_id",userId);
             List<ForumComment> forumComments = forumcommentMapper.selectList(is1);
-            List<String> ids = new ArrayList<>();
-            forumComments.forEach(e->  ids.add(e.getArticleId()) );
+//            List<String> ids = new ArrayList<>();
+            // 添加 值
+            forumComments.forEach(e-> ids.add(e.getArticleId()));
+            // 判断  值 是否相同
             eq = eq.in("article_id",is);
         }else if(type== 2){  // 点赞
-
-            is2 = is2.and(i-> i.eq("op_type",0));
-            List<LikeRecord> likeRecords = likeRecordMapper.selectList(is2);
-            List<String> ids = new ArrayList<>();
+            is2 = is2.and(i-> i.eq("op_type",0)); // 判断 是否 是同种类型
+            List<LikeRecord> likeRecords = likeRecordMapper.selectList(is2); //
+//            List<String> ids = new ArrayList<>();
             likeRecords.forEach(e-> ids.add(e.getObject_id()) );
             is2 = is2.eq("article_id",userId);
-
         }
         SessionWebUserDto userDto = ABASE.getUserInfoFormSession(session);
         if(userDto!=null){
@@ -126,7 +134,26 @@ public class UserCenterController {
         }else{
             eq = eq.eq("status",ArticleStatusEnum.AUDTI.getStatus());
         }
-        Page<ForumArticle> page = forumArticleMapper.selectPage(new Page<>(pageNo, 10), eq);
+        // 分页查询
+        //
+        Page<ForumArticle> page = new Page<>();
+
+         // 判断 查询 列表是否为空
+
+        // 分页查询
+
+//        if(!ids.isEmpty()){
+//               //
+//            for(String id: ids  ){
+//                ForumArticle forumArticle = forumArticleMapper.selectById(id);
+//                if(forumArticle != null){
+//                }
+//            }
+//        }else{
+//            page = forumArticleMapper.selectPage(new Page<>(pageNo, 10), eq);
+//        }
+
+
         return ResponseVO.getSuccessResponseVO(page);
     }
 

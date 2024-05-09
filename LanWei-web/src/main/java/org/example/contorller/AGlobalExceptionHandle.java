@@ -20,10 +20,11 @@ public class AGlobalExceptionHandle {
     @ExceptionHandler(BusinessException.class)
     public Object handlerException(BusinessException e, HttpServletRequest request) {
         log.info("-----------内部 错误 :" + e.getMessage());
+        //
         ResponseVO<String> server_error = new ResponseVO<>(e.getMessage());
+        //
         server_error.setCode(ResponseCodeEnum.CODE_500.getCode());
         return server_error;
-
     }
 
 }

@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="618f0c07-b4a9-4e10-81dc-20a11f0095be" name="Changes" comment="" />
+    <list default="true" id="618f0c07-b4a9-4e10-81dc-20a11f0095be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4e8c9d4b-c45e-44c7-833c-2098052d3074.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4e8c9d4b-c45e-44c7-833c-2098052d3074.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4e8c9d4b-c45e-44c7-833c-2098052d3074/storage_v2/_src_/schema/lanwei.IhfWvQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4e8c9d4b-c45e-44c7-833c-2098052d3074/storage_v2/_src_/schema/lanwei.IhfWvQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LanWei-common/src/main/java/org/example/enums/ArticleAttachmentTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/LanWei-common/src/main/java/org/example/enums/ArticleAttachmentTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LanWei-web/src/main/java/org/example/contorller/AGlobalExceptionHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/LanWei-web/src/main/java/org/example/contorller/AGlobalExceptionHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LanWei-web/src/main/java/org/example/contorller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/LanWei-web/src/main/java/org/example/contorller/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LanWei-web/src/main/java/org/example/contorller/UserCenterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/LanWei-web/src/main/java/org/example/contorller/UserCenterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LanWei-web/src/main/java/org/example/contorller/api/InnerApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/LanWei-web/src/main/java/org/example/contorller/api/InnerApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LanWei-web/src/main/resources/logs/LanWei-web.log" beforeDir="false" afterPath="$PROJECT_DIR$/LanWei-web/src/main/resources/logs/LanWei-web.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +30,9 @@
         <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,40 +58,42 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2bNuYtaHvzbKoAVMmZdvyua1beo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ApiPost:METDOD_SEND_RECORD:LanWei-web&quot;: &quot;{\&quot;/checkCode\&quot;:[{\&quot;url\&quot;:\&quot;http://localhost:7070/api/checkCode\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:0.0,\&quot;key\&quot;:\&quot;httpSession\&quot;,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;not_null\&quot;:\&quot;0\&quot;,\&quot;field_type\&quot;:\&quot;HttpSession\&quot;,\&quot;value\&quot;:\&quot;\&quot;},{\&quot;is_checked\&quot;:1.0,\&quot;key\&quot;:\&quot;type\&quot;,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;not_null\&quot;:\&quot;0\&quot;,\&quot;field_type\&quot;:\&quot;Integer\&quot;,\&quot;value\&quot;:\&quot;1\&quot;},{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;is_checked\&quot;:1.0,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;\&quot;,\&quot;responseBody\&quot;:\&quot;�PNG\\r\\n\\u001a\\n\\u0000\\u0000\\u0000\\rIHDR\\u0000\\u0000\\u0000�\\u0000\\u0000\\u0000\\u0026\\b\\u0002\\u0000\\u0000\\u0000���R\\u0000\\u0000\\u0003WIDATx��ۿk\\u0015A\\u0010\\u0007�`-v\\\&quot;\\u0001QD��tV���� X�vja���e�`\\u0011k;� �u�\\u0017\\bb���\\u0010-DPRDI�\\u0018Apq�X��|wo�v\\u001f\\u001e\\f\\\&quot;���2\\u001ffg�n��\\u000f_�h\\u001e�S03$�������/�-i��F_�G�\\f�O7T�\\u0005�E5�\\u0019\\\&quot;%y����˕�o�\\u00101���\\u0019\\u0016玚\\u0011�\\u00057ɕ:�|�F�j�Ҫ3�1\\\\\\u000f��\\u0012|rɕ^\\u0000\\u0012\\u0003��Չxr\\u000f�zf\\u0006\\u0000���p��\\u001e\\u0018D��D��\\u0010ϯ� \\r�J�\\u0017\\f�ir�\\u0011+�ٗ2$\\n2D�MJL1)%1�m�R\\t��T�z\\fIW)��\\u0015+��ꇷo舴��O�\\u0018�\\u003e��$�\\u001c\\f.�\\u0019�6vtd\\u0017������\\u0007�Hx\\u0001�p�1ߞy�w�8�U\\u0019���be\\\\1���,\\u000e�@\\u0007��\\u0003\\u0003���\\u0007d\\u0006򒎈���$\\rHJ�M�p5r��`���`�\\u0013^\\\&quot;sR\\u0012\\u0013-.\\u0000~�T�\\r��\\u000e-`:��\\u0018S\\r^-qZ��\\u0026b�DH���\\u0016�wd��`�����Z�b6�\\b\\u0018���\\u003d�k���H�\\u0018\\t/\\u0003��m���H\\t�\\u001a\\u0006\\u000f�n�d��0\\u0001��W�}��σ��Pc`\\rMb�-4�;�axe��8#)��\\f���\\u0016�\\u0015CH�\\u0019X\\u0019�R\\f����\\r�\\u0018H\\t�$�\\u0010z��\\u0004w�\\r\\u0019ƄWB|��\\u0017\\u0003�h���\\u0012�\\u0017�j*.��ܐ\\u0004���Ì\\\&quot;\\f�/��3\\u0000g�\\\\�\\fC{�Z��!�����{��\\fF�Ƚ�%�wi��Ͳ\\u0018�o@�_�$\\u003d��8�c1XHV\\r\\u0001;�}�%�\\fK�,�\\u0018T|�\\u0016\\u0007������[�P\\r� \\r���e\\u0018T?\\u0012\\u0010�\\u0000�\\u0001,J1\\u0000G�G#\\u0015V\\u001f\\\&quot;\\u0019D���+-\\u000f�h���\\u0000��x�j��b��rkه���+Ư�����1�տ��b��c\\u0016��\\u0001��g��y*�J��\\u00273��R��RhL�Q�\\u0018n�sJ�\\u003d��C\\u0006Ra\\u0006��\\u0004\\u001eK�\\u0000܊�T�\\u0010p\\u0013Xͬ\\u0006����\\u0001�� 2Ψ\\u0027�P�M\\t�\\u001b��z�ͪ\\u0006���0���`8Yd�\\u0012\\u0027��\\f�L%�\\u001f�2�\\f\\u003c9\\u000b�\\u0000\\u0000\\u0000\\u0000IEND�B`�\&quot;,\&quot;selectedItem\&quot;:\&quot;POST\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2024.0,\&quot;month\&quot;:1.0,\&quot;day\&quot;:31.0},\&quot;time\&quot;:{\&quot;hour\&quot;:22.0,\&quot;minute\&quot;:41.0,\&quot;second\&quot;:48.0,\&quot;nano\&quot;:2.995822E8}}},{\&quot;url\&quot;:\&quot;http://localhost:7070/api/checkCode\&quot;,\&quot;header\&quot;:[{\&quot;is_checked\&quot;:1,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;query\&quot;:[{\&quot;is_checked\&quot;:0,\&quot;key\&quot;:\&quot;httpSession\&quot;,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;not_null\&quot;:\&quot;0\&quot;,\&quot;field_type\&quot;:\&quot;HttpSession\&quot;,\&quot;value\&quot;:\&quot;\&quot;},{\&quot;is_checked\&quot;:1,\&quot;key\&quot;:\&quot;type\&quot;,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;not_null\&quot;:\&quot;0\&quot;,\&quot;field_type\&quot;:\&quot;Integer\&quot;,\&quot;value\&quot;:\&quot;1\&quot;},{\&quot;is_checked\&quot;:1,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;rest\&quot;:[{\&quot;is_checked\&quot;:1,\&quot;type\&quot;:\&quot;Text\&quot;,\&quot;value\&quot;:\&quot;\&quot;}],\&quot;requestBody\&quot;:\&quot;\&quot;,\&quot;responseBody\&quot;:\&quot;�PNG\\r\\n\\u001a\\n\\u0000\\u0000\\u0000\\rIHDR\\u0000\\u0000\\u0000�\\u0000\\u0000\\u0000\\u0026\\b\\u0002\\u0000\\u0000\\u0000���R\\u0000\\u0000\\u0003AIDATx���\\u003d�\\u00141\\u0014\\u0007�ic+\\b\\\&quot;b!X,�\\\\q�`ae����\\n���a��m�\\b�vb#\\b\\\&quot;��V� �\\u0007�ia!�`!\\u0007�a\\u0007c�$/�$��q�\\u0015����m~��K2{����**Ź�\\u0013\\u001b�Y�俟\\u0015w\\u0007�����\\r�5���\\u001c_���M�۠��L\\u0018��j�S\\\\\\u000f#f\\u0003����OJJ\\u0010����*\\u001f���^Y�q\\u003e��(���@���e����\\u0006�.1C�\\u0006�\\u003d��!����C�\\u0010a���zt�\\u000b\\r\\u0003p�6�� �\\b����\\u0007P`�i�\\u001b01 M�z\\f|\\t�AR�f $,��0\\u0012�AR\\u0002\\\&quot;��\\f\\u001c\\t�\\u0001!�4�\\u0019�o1����!h���tRt\\u0002ન[�F\\\\�\\u0010DK0G~��4���\\b�8CP�o \\u0002#\\u0018�S\\u001bk�\\u0015\\u0006n�V2�\\u0006.\\u0003p$���t:�O\\bZ()�c�ʔm��.E��1\\u0014lъˀ��\\u001f~�jѾ���\\u0015��D�%��9c\\\&quot;�\\r�g�������\\u0018�ϔr.ӭ\\f��\\\&quot;�U0\\u0027:\\f�\\u0001��ۿ��\\b3T����\\u0006�G����ӜcՉ\\u001ehN�\\u001et�P�?\\u0017�\\u0006��((��Mc��\\t��uÐ\\f�\\tADp3jiV��\\u0018����`%��j��fTC\\fe�mΫ�\\u0005�Y��a땛\\u0016M0�\\u001b�|\\u0006\\u0013���v�\\u001f��W�G�Q�\\u0001�\\\&quot;��\\u0016\\u0019P��z\\u0003����Y`�3%���\\u0012�던ā�{\\u0026zg3W�|\\u0006��\\u0012LX�$�����\\u0003�\\u0005�\\u0012\\u0012�uC\\u0013�\\u001b�2$K\\u0010���Pl�\\u0012\\fY;�m2p6���\\u001c�\\f���\\u000e�8\\u0019\\u0006~�~�P��[�\\f:\\t��K\\u003d\\u0004�2Df\\u001f\\u0007�\\f\\u0017w�m2�$�\\u0018R\\u0003�Bb���\\u0017N�\\u0010gC�\\f�n\\u0011�0\\u0001\\u003c��P�\\u001dF�$Q��Dո3�[�\\u001b�O|���wv��.;\\u0016\\u0012F\\u00028\\u0005�o���D/ib�\\u0016��j�CJ\\u0010\\u0018�\\u0003Ԉ\\u001a�\\u0001\\u003c[\\u003e��i\\u0001�,���Knf1\\u0000�\\u0011\\u0014(Q~�R��\\t\\u0001��Ub�N^��D�\\u003e����%\\u0007���\\u0003w\\bNZ\\u0000[�I�?x�\\u000e��K:j\\u0000\\u0000\\u0000\\u0000IEND�B`�\&quot;,\&quot;selectedItem\&quot;:\&quot;GET\&quot;,\&quot;time\&quot;:{\&quot;date\&quot;:{\&quot;year\&quot;:2024,\&quot;month\&quot;:1,\&quot;day\&quot;:31},\&quot;time\&quot;:{\&quot;hour\&quot;:22,\&quot;minute\&quot;:43,\&quot;second\&quot;:6,\&quot;nano\&quot;:775886400}}}]}&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/张根勇/Documents/Tencent Files/1690564958/FileRecv/project/project&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.30769232&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\idea2023\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ApiPost:METDOD_SEND_RECORD:LanWei-web": "{\"/checkCode\":[{\"url\":\"http://localhost:7070/api/checkCode\",\"header\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":0.0,\"key\":\"httpSession\",\"type\":\"Text\",\"not_null\":\"0\",\"field_type\":\"HttpSession\",\"value\":\"\"},{\"is_checked\":1.0,\"key\":\"type\",\"type\":\"Text\",\"not_null\":\"0\",\"field_type\":\"Integer\",\"value\":\"1\"},{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1.0,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"�PNG\\r\\n\\u001a\\n\\u0000\\u0000\\u0000\\rIHDR\\u0000\\u0000\\u0000�\\u0000\\u0000\\u0000\\u0026\\b\\u0002\\u0000\\u0000\\u0000���R\\u0000\\u0000\\u0003WIDATx��ۿk\\u0015A\\u0010\\u0007�`-v\\\"\\u0001QD��tV���� X�vja���e�`\\u0011k;� �u�\\u0017\\bb���\\u0010-DPRDI�\\u0018Apq�X��|wo�v\\u001f\\u001e\\f\\\"���2\\u001ffg�n��\\u000f_�h\\u001e�S03$�������/�-i��F_�G�\\f�O7T�\\u0005�E5�\\u0019\\\"%y����˕�o�\\u00101���\\u0019\\u0016玚\\u0011�\\u00057ɕ:�|�F�j�Ҫ3�1\\\\\\u000f��\\u0012|rɕ^\\u0000\\u0012\\u0003��Չxr\\u000f�zf\\u0006\\u0000���p��\\u001e\\u0018D��D��\\u0010ϯ� \\r�J�\\u0017\\f�ir�\\u0011+�ٗ2$\\n2D�MJL1)%1�m�R\\t��T�z\\fIW)��\\u0015+��ꇷo舴��O�\\u0018�\\u003e��$�\\u001c\\f.�\\u0019�6vtd\\u0017������\\u0007�Hx\\u0001�p�1ߞy�w�8�U\\u0019���be\\\\1���,\\u000e�@\\u0007��\\u0003\\u0003���\\u0007d\\u0006򒎈���$\\rHJ�M�p5r��`���`�\\u0013^\\\"sR\\u0012\\u0013-.\\u0000~�T�\\r��\\u000e-`:��\\u0018S\\r^-qZ��\\u0026b�DH���\\u0016�wd��`�����Z�b6�\\b\\u0018���\\u003d�k���H�\\u0018\\t/\\u0003��m���H\\t�\\u001a\\u0006\\u000f�n�d��0\\u0001��W�}��σ��Pc`\\rMb�-4�;�axe��8#)��\\f���\\u0016�\\u0015CH�\\u0019X\\u0019�R\\f����\\r�\\u0018H\\t�$�\\u0010z��\\u0004w�\\r\\u0019ƄWB|��\\u0017\\u0003�h���\\u0012�\\u0017�j*.��ܐ\\u0004���Ì\\\"\\f�/��3\\u0000g�\\\\�\\fC{�Z��!�����{��\\fF�Ƚ�%�wi��Ͳ\\u0018�o@�_�$\\u003d��8�c1XHV\\r\\u0001;�}�%�\\fK�,�\\u0018T|�\\u0016\\u0007������[�P\\r� \\r���e\\u0018T?\\u0012\\u0010�\\u0000�\\u0001,J1\\u0000G�G#\\u0015V\\u001f\\\"\\u0019D���+-\\u000f�h���\\u0000��x�j��b��rkه���+Ư�����1�տ��b��c\\u0016��\\u0001��g��y*�J��\\u00273��R��RhL�Q�\\u0018n�sJ�\\u003d��C\\u0006Ra\\u0006��\\u0004\\u001eK�\\u0000܊�T�\\u0010p\\u0013Xͬ\\u0006����\\u0001�� 2Ψ\\u0027�P�M\\t�\\u001b��z�ͪ\\u0006���0���`8Yd�\\u0012\\u0027��\\f�L%�\\u001f�2�\\f\\u003c9\\u000b�\\u0000\\u0000\\u0000\\u0000IEND�B`�\",\"selectedItem\":\"POST\",\"time\":{\"date\":{\"year\":2024.0,\"month\":1.0,\"day\":31.0},\"time\":{\"hour\":22.0,\"minute\":41.0,\"second\":48.0,\"nano\":2.995822E8}}},{\"url\":\"http://localhost:7070/api/checkCode\",\"header\":[{\"is_checked\":1,\"type\":\"Text\",\"value\":\"\"}],\"query\":[{\"is_checked\":0,\"key\":\"httpSession\",\"type\":\"Text\",\"not_null\":\"0\",\"field_type\":\"HttpSession\",\"value\":\"\"},{\"is_checked\":1,\"key\":\"type\",\"type\":\"Text\",\"not_null\":\"0\",\"field_type\":\"Integer\",\"value\":\"1\"},{\"is_checked\":1,\"type\":\"Text\",\"value\":\"\"}],\"rest\":[{\"is_checked\":1,\"type\":\"Text\",\"value\":\"\"}],\"requestBody\":\"\",\"responseBody\":\"�PNG\\r\\n\\u001a\\n\\u0000\\u0000\\u0000\\rIHDR\\u0000\\u0000\\u0000�\\u0000\\u0000\\u0000\\u0026\\b\\u0002\\u0000\\u0000\\u0000���R\\u0000\\u0000\\u0003AIDATx���\\u003d�\\u00141\\u0014\\u0007�ic+\\b\\\"b!X,�\\\\q�`ae����\\n���a��m�\\b�vb#\\b\\\"��V� �\\u0007�ia!�`!\\u0007�a\\u0007c�$/�$��q�\\u0015����m~��K2{����**Ź�\\u0013\\u001b�Y�俟\\u0015w\\u0007�����\\r�5���\\u001c_���M�۠��L\\u0018��j�S\\\\\\u000f#f\\u0003����OJJ\\u0010����*\\u001f���^Y�q\\u003e��(���@���e����\\u0006�.1C�\\u0006�\\u003d��!����C�\\u0010a���zt�\\u000b\\r\\u0003p�6�� �\\b����\\u0007P`�i�\\u001b01 M�z\\f|\\t�AR�f $,��0\\u0012�AR\\u0002\\\"��\\f\\u001c\\t�\\u0001!�4�\\u0019�o1����!h���tRt\\u0002ન[�F\\\\�\\u0010DK0G~��4���\\b�8CP�o \\u0002#\\u0018�S\\u001bk�\\u0015\\u0006n�V2�\\u0006.\\u0003p$���t:�O\\bZ()�c�ʔm��.E��1\\u0014lъˀ��\\u001f~�jѾ���\\u0015��D�%��9c\\\"�\\r�g�������\\u0018�ϔr.ӭ\\f��\\\"�U0\\u0027:\\f�\\u0001��ۿ��\\b3T����\\u0006�G����ӜcՉ\\u001ehN�\\u001et�P�?\\u0017�\\u0006��((��Mc��\\t��uÐ\\f�\\tADp3jiV��\\u0018����`%��j��fTC\\fe�mΫ�\\u0005�Y��a땛\\u0016M0�\\u001b�|\\u0006\\u0013���v�\\u001f��W�G�Q�\\u0001�\\\"��\\u0016\\u0019P��z\\u0003����Y`�3%���\\u0012�던ā�{\\u0026zg3W�|\\u0006��\\u0012LX�$�����\\u0003�\\u0005�\\u0012\\u0012�uC\\u0013�\\u001b�2$K\\u0010���Pl�\\u0012\\fY;�m2p6���\\u001c�\\f���\\u000e�8\\u0019\\u0006~�~�P��[�\\f:\\t��K\\u003d\\u0004�2Df\\u001f\\u0007�\\f\\u0017w�m2�$�\\u0018R\\u0003�Bb���\\u0017N�\\u0010gC�\\f�n\\u0011�0\\u0001\\u003c��P�\\u001dF�$Q��Dո3�[�\\u001b�O|���wv��.;\\u0016\\u0012F\\u00028\\u0005�o���D/ib�\\u0016��j�CJ\\u0010\\u0018�\\u0003Ԉ\\u001a�\\u0001\\u003c[\\u003e��i\\u0001�,���Knf1\\u0000�\\u0011\\u0014(Q~�R��\\t\\u0001��Ub�N^��D�\\u003e����%\\u0007���\\u0003w\\bNZ\\u0000[�I�?x�\\u000e��K:j\\u0000\\u0000\\u0000\\u0000IEND�B`�\",\"selectedItem\":\"GET\",\"time\":{\"date\":{\"year\":2024,\"month\":1,\"day\":31},\"time\":{\"hour\":22,\"minute\":43,\"second\":6,\"nano\":775886400}}}]}",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/spring-0001/LanWei-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.30769232",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "D:\\idea2023\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\spring-0001\LanWei-java\LanWei-web\src\main\resources\file\images\202301" />
@@ -243,7 +259,8 @@
       <workItem from="1714138630584" duration="3216000" />
       <workItem from="1714544313560" duration="357000" />
       <workItem from="1714922008572" duration="185000" />
-      <workItem from="1714922205636" duration="1796000" />
+      <workItem from="1714922205636" duration="5723000" />
+      <workItem from="1715137410652" duration="23325000" />
     </task>
     <servers />
   </component>
@@ -253,16 +270,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LanWei-common/src/main/java/org/example/service/impl/ForumCommentServiceImpl.java</url>
-          <line>66</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LanWei-common/src/main/java/org/example/service/impl/ForumCommentServiceImpl.java</url>
-          <line>69</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/LanWei-common/src/main/java/org/example/service/impl/UserInfoServiceImpl.java</url>
           <line>188</line>
@@ -274,6 +281,7 @@
       <pinned-members>
         <PinnedItemInfo parentTag="org.apache.catalina.connector.ResponseFacade" memberName="response" />
         <PinnedItemInfo parentTag="org.apache.catalina.session.StandardSession" memberName="attributes" />
+        <PinnedItemInfo parentTag="org.example.service.impl.ForumCommentServiceImpl" memberName="userInfoMapper" />
       </pinned-members>
     </pin-to-top-manager>
   </component>

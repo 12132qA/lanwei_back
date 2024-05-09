@@ -22,8 +22,12 @@ public class InnerApiController {
     private SysSettingService sysSettingService;
 
     /**
+     * @param appKey
+     * @param timeStamp
+     * @param sign
+     * @return
      *
-     * */
+     */
     @RequestMapping("/refresSysSetting")
     public ResponseVO refersSysSetting(@VerifyParam(required = true) String appKey,
                                       @VerifyParam(required = true) Long timeStamp,

@@ -88,7 +88,6 @@ public class FileController {
         readImage(response,imageFolder,imageName);
          return;
     }
-
     /**
      *
      * @param response
@@ -101,6 +100,7 @@ public class FileController {
 
         String avatarFolderName = Constants.FILE_FOLDER_FILE+ Constants.FILE_FOLDER_AVATAR_NAME;
         String avatarPath = webConfig.getProjectFolder()+avatarFolderName+userId+Constants.AVATAR_SUFFIX;
+        // 获取文件夹 及相关 文件名称
         File avatarFolder = new File(avatarFolderName);
 
         if(!avatarFolder.exists()){
@@ -120,6 +120,7 @@ public class FileController {
 
     /***
      * 读文件操作
+     *  文件读取 文件
      */
 
     public String readImage(HttpServletResponse response,
